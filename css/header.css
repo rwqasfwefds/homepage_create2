@@ -1,0 +1,12 @@
+/* <!-- 헤더 --> */
+#main-header { padding: 40px 50px; }
+.master-title {
+    font-size: 30px; 
+    color: #181818;
+    text-align: center;
+}
+.log{
+    float: right;
+    text-decoration: underline;
+    
+}
